@@ -1,0 +1,14 @@
+pymongo
+asyncpg==0.27.0
+fastapi==0.89.1
+uvicorn==0.20.0
+sqlalchemy
+alembic
+python-dotenv
+psycopg2-binary
+motor
+fastapi_users
+odmantic
+jose
+passlib
+streamlit

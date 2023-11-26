@@ -1,0 +1,5 @@
+# BEGIN: /mnt/a/MainFolder/AppSafe/API/app/.gitignore
+venv/
+__pycache__/
+/venv/.
+# END: /mnt/a/MainFolder/AppSafe/API/app/.gitignore
